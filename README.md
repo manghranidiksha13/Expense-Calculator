@@ -12,4 +12,5 @@ A simple Python script to split expenses among a group of people.
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run the script:
+   
   python main.py
